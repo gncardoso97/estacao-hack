@@ -1,0 +1,38 @@
+h1 {
+
+	color: blue;
+
+}
+
+
+#mastertech {
+	background:grey;
+}
+
+#div2{
+	background-color: blue;
+	text-align: center;
+	border: 3px solid black;
+	padding:10px 10px 10px 10px;
+	margin: 10px;
+}
+.vermelho{
+	color: red;
+}
+
+.gato {
+	margin-left: 1px;
+}
+
+button{
+    width: 200px;
+    height: 70px;
+    background-color: green;
+    color: white;
+}
+
+button:hover{
+    border: 5px solid #000;
+    margin-left: 5px;
+    margin-top: 5px;
+}

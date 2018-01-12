@@ -1,0 +1,26 @@
+
+header{
+	padding-top: 15%;
+	background-image: url(https://static.tumblr.com/4f0554faf999b9b1866be3511bc8c38a/2znqtyh/LAio5n55f/tumblr_static_tumblr_static_40d2t9a69co4w8osskss4wwo4_640.jpg);
+}
+
+/*.col-sm-6 {
+	background-color: pink;
+	text-align: center;
+}
+
+.col-sm-3{
+	background-color: grey;
+	height: 30px;
+	
+}*/
+
+
+.row-botao{
+	padding-top: 10%;
+}
+
+.texto-alinhado
+{
+	text-align: center;
+}
